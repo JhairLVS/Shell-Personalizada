@@ -5,7 +5,7 @@ En el presente trabajo se implemento una shell presonalizada desde 0, esta fue d
 1. Desarrollar una interfaz intuitiva para el usuario.
 2. Poder ejecutar comandos eficientes en la shell.
 3. Personalización sencilla del prompt.
-##Enale del video de demostración
+## Enale del video de demostración
 
 ## Conclusiones
 1. Al lograr desarrollar una interfaz intuitva para el usuario, mi shell puede llegar a muchas mas personas que no tienen que tener conocimientos avanzados en el tema para poder utilizarla.
